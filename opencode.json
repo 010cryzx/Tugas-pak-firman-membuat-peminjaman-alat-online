@@ -1,0 +1,18 @@
+{
+  "project": "inventra-aplikasi-peminjaman-alat",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "database": {
+    "dialect": "postgresql",
+    "orm": "drizzle-orm",
+    "schema": "src/db/schema.ts"
+  },
+  "designDirection": "Dark Hardware Lab",
+  "docs": {
+    "research": "docs/DESIGN_RESEARCH.md",
+    "direction": "docs/DESIGN_DIRECTION.md",
+    "system": "docs/DESIGN_SYSTEM.md",
+    "review": "docs/DESIGN_REVIEW.md",
+    "roadmap": "docs/ROADMAP.md"
+  }
+}

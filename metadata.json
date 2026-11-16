@@ -1,0 +1,6 @@
+{
+  "name": "INVENTRA — Sistem Peminjaman Laptop & Lisensi Perangkat Lunak",
+  "description": "Aplikasi manajemen inventaris, peminjaman perangkat keras (laptop/workstation) dan lisensi perangkat lunak laboratorium dengan verifikasi pengembalian, denda otomatis, dan log audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
